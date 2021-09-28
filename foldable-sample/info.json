@@ -1,0 +1,21 @@
+{
+  "created": 1632852739236,
+  "description": "",
+  "id": "foldable-sample",
+  "modified": 1632852751491,
+  "owner": "sgoulet@esri.com_prof_services",
+  "tags": [],
+  "thumbnail": null,
+  "title": "Foldable Sample",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Draft",
+    "version:1.5.0"
+  ],
+  "portalUrl": "https://prof-services.maps.arcgis.com",
+  "username": "sgoulet@esri.com_prof_services"
+}

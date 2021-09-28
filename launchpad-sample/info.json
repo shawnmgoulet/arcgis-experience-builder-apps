@@ -1,0 +1,21 @@
+{
+  "created": 1632852774975,
+  "description": "",
+  "id": "launchpad-sample",
+  "modified": 1632852802844,
+  "owner": "sgoulet@esri.com_prof_services",
+  "tags": [],
+  "thumbnail": null,
+  "title": "Launchpad Sample",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Draft",
+    "version:1.5.0"
+  ],
+  "portalUrl": "https://prof-services.maps.arcgis.com",
+  "username": "sgoulet@esri.com_prof_services"
+}
