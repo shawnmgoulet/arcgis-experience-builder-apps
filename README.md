@@ -1,4 +1,4 @@
-# ArcGIS Experience Builder Apps Repo
+# ArcGIS Experience Builder App Configurations
 
 An Experience Builder apps config sample repo.
 
